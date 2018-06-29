@@ -1,0 +1,26 @@
+.game-square {
+	width: 50px;
+	height: 50px;
+	margin: 3px;
+	background-color: black;
+	display: inline-block;
+}
+.game-board {
+	background-color: black;
+}
+.ship {
+	background-image: url('../img/ship.png');
+	background-size: cover;
+}
+.laser {
+	background-image: url('../img/laser.png');
+	background-size: cover;
+}
+.enemy {
+	background-image: url('../img/monster.png');
+	background-size: cover;
+}
+.explosion {
+	background-image: url('../img/explosion.png');
+	background-size: cover;
+}
